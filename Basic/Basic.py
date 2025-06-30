@@ -1,5 +1,4 @@
 #print "Hello World"
-
 print("Hello World")
 
 #Declare and print a variable
